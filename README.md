@@ -68,8 +68,8 @@
 ---
 
 ### ⏱️ WakaTime Coding Activity
-<!-- Replace with your own waka stats if you use it -->
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Bhushan280&theme=radical)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=bhushanDev&theme=radical)
+
 
 ---
 
