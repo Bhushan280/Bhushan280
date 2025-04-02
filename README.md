@@ -70,6 +70,7 @@
 ### ⏱️ WakaTime Coding Activity
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=bhushanDev&theme=radical)
 
+<figure><embed src="https://wakatime.com/share/@bhushanDev/c5aabc1f-e4d3-424e-8e9f-f2851feeb4f1.svg"></embed></figure>
 
 
 ---
