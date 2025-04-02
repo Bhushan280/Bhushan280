@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://github.com/Bhushan280">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhushan+Chouhan;MERN+Stack+Web+Developer;Anime+Fan+%F0%9F%8E%A9;JavaScript+%7C+React+%7C+Node.js;Let's+build+cool+things+together!">
+  </a>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Bhushan Chouhan</h1>
 <h3 align="center">A passionate Web Developer hungry to level up each day! 🚀</h3>
 
