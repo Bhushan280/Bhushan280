@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **MERN Stack**
 - 👨‍💻 All of my projects are available at [github.com/Bhushan280](https://github.com/Bhushan280)
 - 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **bhushanchouhan25@example.com**
 - ⚡ Fun fact: I love anime & building side projects!
 
 ---
