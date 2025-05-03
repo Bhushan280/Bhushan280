@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **MERN Stack**
 - 👨‍💻 All of my projects are available at [github.com/Bhushan280](https://github.com/Bhushan280)
 - 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 How to reach me: **bhushanchouhan25@example.com**
+- 📫 How to reach me: **bhushanchouhan25@gmail.com**
 - ⚡ Fun fact: I love anime & building side projects!
 
 ---
@@ -78,9 +78,8 @@
 
 ---
 
-### 📫 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/bhushan-chouhan07/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+📫 Connect with Me
+<p> 
+  <a href="mailto:bhushanchouhan25@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
+  <a href="https://www.linkedin.com/in/bhushan-chouhan07/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
 </p>
