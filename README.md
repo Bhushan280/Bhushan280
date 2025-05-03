@@ -1,9 +1,8 @@
-<p align="center">
+<div align="center">
   <a href="https://github.com/Bhushan280">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhushan+Chouhan;MERN+Stack+Web+Developer;Anime+Fan+%F0%9F%8E%A9;JavaScript+%7C+React+%7C+Node.js;Let's+build+cool+things+together!">
   </a>
-</p>
-
+</div>
 
 <h1 align="center">Hi 👋, I'm Bhushan Chouhan</h1>
 <h3 align="center">A passionate Web Developer hungry to level up each day! 🚀</h3>
@@ -16,6 +15,17 @@
 - 💬 Ask me about **JavaScript, React, Node.js**
 - 📫 How to reach me: **bhushanchouhan25@example.com**
 - ⚡ Fun fact: I love anime & building side projects!
+
+---
+
+### 📈 GitHub Contribution Stats
+
+<div align="center">
+  <!-- Total contributions and yearly chart -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhushan280&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Bhushan's GitHub stats" />
+  <!-- Streak stats: current & longest -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhushan280&theme=radical&hide_border=true" alt="Bhushan's GitHub streak stats" />
+</div>
 
 ---
 
@@ -56,12 +66,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhushan280&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhushan280&layout=compact&theme=radical)
-
----
-
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bhushan280&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -71,7 +75,6 @@
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=bhushanDev&theme=radical)
 
 <figure><embed src="https://wakatime.com/share/@bhushanDev/c5aabc1f-e4d3-424e-8e9f-f2851feeb4f1.svg"></embed></figure>
-
 
 ---
 
